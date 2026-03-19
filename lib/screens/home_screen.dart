@@ -50,7 +50,7 @@ class HomeScreen extends StatelessWidget {
                   ),
                 ),
                 const SizedBox(height: 10),
-                const Text(
+                 Text(
                   'Choose a method to extract text from images',
                   textAlign: TextAlign.center,
                   style: TextStyle(
